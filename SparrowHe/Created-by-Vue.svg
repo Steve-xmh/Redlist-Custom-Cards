@@ -1,0 +1,11 @@
+<svg width="105" height="40" viewBox="0 0 105 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="105" height="40" rx="5" fill="#249CE0"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Microsoft YaHei UI" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="37" y="17.3062">本作品已使用</tspan><tspan x="37" y="30.3062">Vue开发</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Microsoft YaHei UI" font-size="1" font-weight="bold" letter-spacing="0em"><tspan x="92" y="35.8806">主要是React太难了</tspan></text>
+
+<g xmlns="http://www.w3.org/2000/svg" stroke="null" id="svg_9">
+   <polygon stroke="null" id="svg_7" points="18.176849365234375,15.309879764914513 14.564023971557617,9.119999393820763 3.7248568534851074,9.119999393820763 18.176849365234375,33.8795056194067 32.62883758544922,9.119999393820763 21.789674758911133,9.119999393820763 " fill="#81c784"/>
+   <polygon stroke="null" id="svg_8" points="21.789674758911133,9.119999393820763 18.176849365234375,15.309879764914513 14.564023971557617,9.119999393820763 9.345270156860352,9.119999393820763 18.176849365234375,24.250820621848106 27.00843048095703,9.119999393820763 " fill="#455a64"/>
+</g>
+
+</svg>
